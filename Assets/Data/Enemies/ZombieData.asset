@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ZombieData
   m_EditorClassIdentifier: Assembly-CSharp::EnemyData
   enemyName: Zombie
-  maxHealth: 1000
+  maxHealth: 400
   speed: 2
-  rotationSpeed: 270
+  rotationSpeed: 70
   baseDamage: 10
